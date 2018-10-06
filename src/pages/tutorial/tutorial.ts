@@ -34,7 +34,7 @@ export class TutorialPage {
           {
             title: "TELETON 2018 :D",
             description: "Puedes ayudar :3",
-            image: 'assets/img/ica-slidebox-img-1.png',
+            image: 'assets/img/2ConfiaT.png',
           },
           {
             title: "Puedes generar más sonrisas",
