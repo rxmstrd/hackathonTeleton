@@ -25,7 +25,7 @@ export class Items {
         "capacidadNinos": "2289",
         "costoAnualPaciente": "35521.075714611",
         "ninosCubrirDonativo": "329.27472304606",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/edo-mex.jpg",
       },
       {
         "descripcion": "CRIT Occidente",
@@ -37,7 +37,7 @@ export class Items {
         "capacidadNinos": "2180",
         "costoAnualPaciente": "31506.228636807",
         "ninosCubrirDonativo": "1146.8709519243",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/occidente.jpg",
       },
       {
         "descripcion": "CRIT Oaxaca",
@@ -49,7 +49,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "38511.147728179",
         "ninosCubrirDonativo": "316.25741219943",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/oaxaca.jpg",
       },
       {
         "descripcion": "CRIT Aguascalientes",
@@ -61,7 +61,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "39205.709272375",
         "ninosCubrirDonativo": "192.31894885046",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/aguascalientes.jpg",
       },
       {
         "descripcion": "CRIT Guanajuato",
@@ -73,7 +73,7 @@ export class Items {
         "capacidadNinos": "654",
         "costoAnualPaciente": "40278.356508257",
         "ninosCubrirDonativo": "228.9578313482",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/guanajuato.jpg",
       },
       {
         "descripcion": "CRIT Coahuila",
@@ -85,7 +85,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "40748.719196262",
         "ninosCubrirDonativo": "333.12687611488",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/Coahuila.jpg",
       },
       {
         "descripcion": "CRIT Hidalgo",
@@ -97,7 +97,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "45178.892293578",
         "ninosCubrirDonativo": "245.20269483399",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/hidalgo.jpg",
       },
       {
         "descripcion": "CRIT Chihuahua",
@@ -109,7 +109,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "40422.035895209",
         "ninosCubrirDonativo": "248.82589385836",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/chihuahua.jpg",
       },
       {
         "descripcion": "CRIT Chiapas",
@@ -121,7 +121,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "43731.041609219",
         "ninosCubrirDonativo": "204.76420156332",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/Chiapas.jpg",
       },
       {
         "descripcion": "CRIT Nezahualcóyotl",
@@ -133,7 +133,7 @@ export class Items {
         "capacidadNinos": "1199",
         "costoAnualPaciente": "42420.099376962",
         "ninosCubrirDonativo": "346.14449314268",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "ssets/img/Nezahualcóyotl.jpg",
       },
       {
         "descripcion": "CRIT Quintana Roo",
@@ -145,7 +145,7 @@ export class Items {
         "capacidadNinos": "1090",
         "costoAnualPaciente": "45550.981238297",
         "ninosCubrirDonativo": "203.8302512337",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/quintanaroo.jpg",
       },
       {
         "descripcion": "CRIT Yucatán",
@@ -157,7 +157,7 @@ export class Items {
         "capacidadNinos": "1090",
         "costoAnualPaciente": "45550.981238297",
         "ninosCubrirDonativo": "777.23420631778",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/yucatan.jpg",
       },
       {
         "descripcion": "CRIT Tamaulipas",
@@ -169,7 +169,7 @@ export class Items {
         "capacidadNinos": "1035.5",
         "costoAnualPaciente": "38095.820542027",
         "ninosCubrirDonativo": "210.30711656231",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/tamaulipas.jpg",
       },
       {
         "descripcion": "CRIT Veracruz",
@@ -181,7 +181,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "37846.032081125",
         "ninosCubrirDonativo": "657.95976757105",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/veracruz.jpg",
       },
       {
         "descripcion": "CRIT Durango",
@@ -205,7 +205,7 @@ export class Items {
         "capacidadNinos": "981",
         "costoAnualPaciente": "42676.448140377",
         "ninosCubrirDonativo": "341.14670409826",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/sonora.jpg",
       },
       {
         "descripcion": "CRIT Baja California Sur",
@@ -217,7 +217,7 @@ export class Items {
         "capacidadNinos": "1090",
         "costoAnualPaciente": "40787.72366233",
         "ninosCubrirDonativo": "162.19551982622",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/baja_california_sur.jpg",
       },
       {
         "descripcion": "CRIT Puebla",
@@ -229,7 +229,7 @@ export class Items {
         "capacidadNinos": "1100",
         "costoAnualPaciente": "45136.881408858",
         "ninosCubrirDonativo": "91.082394738434",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/puebla.jpg",
       },
       {
         "descripcion": "CRIT Ciudad de México",
@@ -241,7 +241,7 @@ export class Items {
         "capacidadNinos": "1090",
         "costoAnualPaciente": "44621.058099845",
         "ninosCubrirDonativo": "194.68281790613",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/cdmx.jpg",
       },
       {
         "descripcion": "CRIT Guerrero",
@@ -253,7 +253,7 @@ export class Items {
         "capacidadNinos": "997.35",
         "costoAnualPaciente": "45804.21519968",
         "ninosCubrirDonativo": "114.65942289287",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/guerrero.jpg",
       },
       {
         "descripcion": "CRIT Michoacán",
@@ -265,7 +265,7 @@ export class Items {
         "capacidadNinos": "997.35",
         "costoAnualPaciente": "37208.868511556",
         "ninosCubrirDonativo": "709.11226450774",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/michoacán.jpg",
       },
       {
         "descripcion": "CRIT Baja California",
@@ -277,7 +277,7 @@ export class Items {
         "capacidadNinos": "997.35",
         "costoAnualPaciente": "47452.291675684",
         "ninosCubrirDonativo": "119.61473265689",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/baja_california_sur.jpg",
       },
       {
         "descripcion": "Centro Autismo Teletón",
@@ -289,7 +289,7 @@ export class Items {
         "capacidadNinos": "220",
         "costoAnualPaciente": "141363.63636364",
         "ninosCubrirDonativo": "91.721827717042",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/CAT.jpg",
       },
       {
         "descripcion": "Hospital Infantil de Oncología",
@@ -301,7 +301,7 @@ export class Items {
         "capacidadNinos": "220",
         "costoAnualPaciente": "1183527.4311119",
         "ninosCubrirDonativo": "127.88876714283",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
+        "profilePic": "assets/img/qro.jpg",
       },
     
     ];

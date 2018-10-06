@@ -178,7 +178,7 @@ var datosFinancieros = [
 		"recursosARecaudar": "7680702.6572",
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "39117.589864628",
-		"ninosCubrirDonativo": "196.34907681634"
+		"ninosCubrirDonativo": "196.34907681634",
 		"profilePic": "assets/img/durango.jpg",
 	},
 	{
