@@ -11,7 +11,7 @@ var datosFinancieros = [
 		"capacidadNinos": "2289",
 		"Costo anual promedio por paciente": "35521.075714611",
 		"ninosCubrirDonativo": "329.27472304606",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/edo-mex.jpg",
 	},
 	{
 		"descripcion": "CRIT Occidente",
@@ -23,7 +23,7 @@ var datosFinancieros = [
 		"capacidadNinos": "2180",
 		"Costo anual promedio por paciente": "31506.228636807",
 		"ninosCubrirDonativo": "1146.8709519243",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/occidente.jpg",
 	},
 	{
 		"descripcion": "CRIT Oaxaca",
@@ -35,7 +35,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "38511.147728179",
 		"ninosCubrirDonativo": "316.25741219943",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/oaxaca.jpg",
 	},
 	{
 		"descripcion": "CRIT Aguascalientes",
@@ -47,7 +47,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "39205.709272375",
 		"ninosCubrirDonativo": "192.31894885046",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/aguascalientes.jpg",
 	},
 	{
 		"descripcion": "CRIT Guanajuato",
@@ -59,7 +59,7 @@ var datosFinancieros = [
 		"capacidadNinos": "654",
 		"Costo anual promedio por paciente": "40278.356508257",
 		"ninosCubrirDonativo": "228.9578313482",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/guanajuato.jpg",
 	},
 	{
 		"descripcion": "CRIT Coahuila",
@@ -71,7 +71,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "40748.719196262",
 		"ninosCubrirDonativo": "333.12687611488",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/Coahuila.jpg",
 	},
 	{
 		"descripcion": "CRIT Hidalgo",
@@ -83,7 +83,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "45178.892293578",
 		"ninosCubrirDonativo": "245.20269483399",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/hidalgo.jpg",
 	},
 	{
 		"descripcion": "CRIT Chihuahua",
@@ -95,7 +95,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "40422.035895209",
 		"ninosCubrirDonativo": "248.82589385836",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/chihuahua.jpg",
 	},
 	{
 		"descripcion": "CRIT Chiapas",
@@ -107,7 +107,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "43731.041609219",
 		"ninosCubrirDonativo": "204.76420156332",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/Chiapas.jpg",
 	},
 	{
 		"descripcion": "CRIT Nezahualcóyotl",
@@ -119,7 +119,7 @@ var datosFinancieros = [
 		"capacidadNinos": "1199",
 		"Costo anual promedio por paciente": "42420.099376962",
 		"ninosCubrirDonativo": "346.14449314268",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/Nezahualcóyotl.jpg",
 	},
 	{
 		"descripcion": "CRIT Quintana Roo",
@@ -131,7 +131,7 @@ var datosFinancieros = [
 		"capacidadNinos": "1090",
 		"Costo anual promedio por paciente": "45550.981238297",
 		"ninosCubrirDonativo": "203.8302512337",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/quintanaroo.jpg",
 	},
 	{
 		"descripcion": "CRIT Yucatán",
@@ -143,7 +143,7 @@ var datosFinancieros = [
 		"capacidadNinos": "1090",
 		"Costo anual promedio por paciente": "45550.981238297",
 		"ninosCubrirDonativo": "777.23420631778",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/yucatan.jpg",
 	},
 	{
 		"descripcion": "CRIT Tamaulipas",
@@ -155,7 +155,7 @@ var datosFinancieros = [
 		"capacidadNinos": "1035.5",
 		"Costo anual promedio por paciente": "38095.820542027",
 		"ninosCubrirDonativo": "210.30711656231",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/tamaulipas.jpg",
 	},
 	{
 		"descripcion": "CRIT Veracruz",
@@ -167,7 +167,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "37846.032081125",
 		"ninosCubrirDonativo": "657.95976757105",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/veracruz.jpg",
 	},
 	{
 		"descripcion": "CRIT Durango",
@@ -179,6 +179,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "39117.589864628",
 		"ninosCubrirDonativo": "196.34907681634"
+		"profilePic": "assets/img/durango.jpg",
 	},
 	{
 		"descripcion": "CRIT Sonora",
@@ -190,7 +191,7 @@ var datosFinancieros = [
 		"capacidadNinos": "981",
 		"Costo anual promedio por paciente": "42676.448140377",
 		"ninosCubrirDonativo": "341.14670409826",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/sonora.jpg",
 	},
 	{
 		"descripcion": "CRIT Baja California Sur",
@@ -202,7 +203,7 @@ var datosFinancieros = [
 		"capacidadNinos": "1090",
 		"Costo anual promedio por paciente": "40787.72366233",
 		"ninosCubrirDonativo": "162.19551982622",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/baja_california_sur.jpg",
 	},
 	{
 		"descripcion": "CRIT Puebla",
@@ -214,7 +215,7 @@ var datosFinancieros = [
 		"capacidadNinos": "1100",
 		"Costo anual promedio por paciente": "45136.881408858",
 		"ninosCubrirDonativo": "91.082394738434",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/puebla.jpg",
 	},
 	{
 		"descripcion": "CRIT Ciudad de México",
@@ -226,7 +227,7 @@ var datosFinancieros = [
 		"capacidadNinos": "1090",
 		"Costo anual promedio por paciente": "44621.058099845",
 		"ninosCubrirDonativo": "194.68281790613",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/cdmx.jpg",
 	},
 	{
 		"descripcion": "CRIT Guerrero",
@@ -238,7 +239,7 @@ var datosFinancieros = [
 		"capacidadNinos": "997.35",
 		"Costo anual promedio por paciente": "45804.21519968",
 		"ninosCubrirDonativo": "114.65942289287",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/guerrero.jpg",
 	},
 	{
 		"descripcion": "CRIT Michoacán",
@@ -250,21 +251,9 @@ var datosFinancieros = [
 		"capacidadNinos": "997.35",
 		"Costo anual promedio por paciente": "37208.868511556",
 		"ninosCubrirDonativo": "709.11226450774",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/michoacán.jpg",
 	},
-	{
-		"descripcion": "CRIT Baja California",
-		"recursosNecesarios": "47326543.102744",
-		"recursosComprometidos": "46278388.8",
-		"porcentajeEsperado": "0.9",
-		"ingresoEsperado": "41650549.92",
-		"recursosARecaudar": "5675993.1827439",
-		"capacidadNinos": "997.35",
-		"Costo anual promedio por paciente": "47452.291675684",
-		"ninosCubrirDonativo": "119.61473265689",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
-	},
-	{
+		{
 		"descripcion": "Centro Autismo Teletón",
 		"recursosNecesarios": "31100000",
 		"recursosComprometidos": "25905527",
@@ -274,7 +263,7 @@ var datosFinancieros = [
 		"capacidadNinos": "220",
 		"Costo anual promedio por paciente": "141363.63636364",
 		"ninosCubrirDonativo": "91.721827717042",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/CAT.jpg",
 	},
 	{
 		"descripcion": "Hospital Infantil de Oncología",
@@ -286,7 +275,7 @@ var datosFinancieros = [
 		"capacidadNinos": "220",
 		"Costo anual promedio por paciente": "1183527.4311119",
 		"ninosCubrirDonativo": "127.88876714283",
-		"profilePic": "assets/img/speakers/cheetah.jpg",
+		"profilePic": "assets/img/qro.jpg",
 	},
 
 ];
