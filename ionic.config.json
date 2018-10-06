@@ -1,0 +1,7 @@
+{
+  "name": "slide",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

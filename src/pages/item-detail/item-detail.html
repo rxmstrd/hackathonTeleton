@@ -1,0 +1,19 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ item.descipcion}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+  <div class="item-profile" text-center #profilePic [style.background-image]="'url(' + item.profilePic + ')'">
+  </div>
+
+  <div class="item-detail" padding>
+    <h2>{{item.descripcion}}</h2>
+    <ion-icon name="card"></ion-icon>
+    <p>{{item.about}}</p>
+  </div>
+</ion-content>
