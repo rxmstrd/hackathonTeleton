@@ -17,6 +17,7 @@
   "TUTORIAL_SLIDE4_TITLE": "Lisito para donar?",
   "BACK_BUTTON_TEXT": "Atras",
   "CANCEL_BUTTON": "Cancelar",
+  "SEARCH_PLACEHOLDER": "Buscar, e.g. \"CRIT\"",
 
   "TUTORIAL_SLIDE1_TITLE": "Bienvenido/a al Ionic Super Starter",
   "TUTORIAL_SLIDE1_DESCRIPTION": "El <b>Ionic Super Starter</b> es un starter de Ionic completo con muchas páginas preconstruidas y mejores prácticas.",
