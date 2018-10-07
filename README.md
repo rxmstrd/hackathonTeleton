@@ -1,96 +1,112 @@
-# The Ionic Super Starter 🎮
 
-<img src="https://user-images.githubusercontent.com/236501/32385619-bddac0ac-c08c-11e7-9ee4-9c892197191f.png" width="400" />
 
-The Ionic Super Starter is a batteries-included starter project for Ionic apps
-complete with pre-built pages, providers, and best practices for Ionic
-development.
+# ConfíaT: 
 
-The goal of the Super Starter is to get you from zero to app store faster than
-before, with a set of opinions from the Ionic team around page layout,
-data/user management, and project structure.
+Transparencia de la Información
 
-The way to use this starter is to pick and choose the various page types you
-want use, and remove the ones you don't. If you want a blank slate, this
-starter isn't for you (use the `blank` type instead).
+Desarrollaramos una app donde el público en general pueda consultar las donaciones recibidas en el evento Teletón. Además podrá registrar donaciones previas hechas a través de entidades que en éste momento no nos permiten conocer al donador. Ésta aplicación les facilitará el seguimiento de donaciones anteriores, realizar nuevas,  elegir a qué CRIT enviará su donación, hacer comentarios y/o preguntas y pertenecer a una comunidad de donadores Teletón. 
 
-One of the big advances in Ionic was moving from a rigid route-based navigation
-system to a flexible push/pop navigation system modeled off common native SDKs.
-We've embraced this pattern to provide a set of reusable pages that can be
-navigated to anywhere in the app. Take a look at the [Settings
-page](https://github.com/ionic-team/starters/blob/master/ionic-angular/official/super/src/pages/settings/settings.html)
-for a cool example of a page navigating to itself to provide a different UI
-without duplicating code.
+Al generar un perfil que dé seguimiento a cada donación personal, recopilaremos data que permitirá que Teletón conocer a sus donantes, darles seguimiento, generar comunidad y buscar su fidelización.
 
-## Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Pages](#pages)
-3. [Providers](#providers)
-4. [i18n](#i18n) (adding languages)
+## Preámbulo:
 
-## <a name="getting-started"></a>Getting Started
+Fundación Teletón preocupada por ser transparente con la información sobre los donativos que recibe, busca desarrollar una herramienta digital que permita a los donadores y al púlico en general, saber el destino de los recursos que ha recibido.
 
-To test this starter out, install the latest version of the Ionic CLI and run:
+La Fundación busca que ésta herramienta cubra alguna de las siguientes necesidades:
 
-```bash
-ionic start mySuperApp super
-```
+a) Monitorear donativos y visualizarlos
 
-## Pages
 
-The Super Starter comes with a variety of ready-made pages. These pages help
-you assemble common building blocks for your app so you can focus on your
-unique features and branding.
+b) Monitorear objetivos alrededor de los donativos y necesidades que atienden dentro de los Centros Teletón
 
-The app loads with the `FirstRunPage` set to `TutorialPage` as the default. If
-the user has already gone through this page once, it will be skipped the next
-time they load the app.
 
-If the tutorial is skipped but the user hasn't logged in yet, the Welcome page
-will be displayed which is a "splash" prompting the user to log in or create an
-account.
+c) Monitoreo de volumen de pacientes beneficiados por Teletón, a lo largo de todos sus Centros.
 
-Once the user is authenticated, the app will load with the `MainPage` which is
-set to be the `TabsPage` as the default.
 
-The entry and main pages can be configured easily by updating the corresponding
-variables in
-[src/pages/index.ts](https://github.com/ionic-team/starters/blob/master/ionic-angular/official/super/src/pages/index.ts).
+d) Medición de impacto en pacientes
 
-Please read the
-[Pages](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/super/src/pages)
-readme, and the readme for each page in the source for more documentation on
-each.
+Para llevar a cabo el desarrollo Fundación Teletón nos permitió el acceso a las bases de datos con la información requerida.
 
-## Providers
+## Problemas Detectados:
 
-The Super Starter comes with some basic implementations of common providers.
+1.- La Data recibida de las distintas entidades se muestra en Lay-outs independientes con formatos distintos, por lo tanto cada entidad genera información distinta.
 
-### User
+2.-Los periodos de Actulización de los Lay-outs varían dependiendo de la entidad, van desde 3 minutos en el caso de Soriana, 15 minutos Banamex, hasta media hora, además algunos muestran información acumulada de movimientos por lo que obtener el monto de donaciones por cortes requiere especial atención es la forma de obtener parámetros standar para trabajar ésta información.
 
-The `User` provider is used to authenticate users through its
-`login(accountInfo)` and `signup(accountInfo)` methods, which perform `POST`
-requests to an API endpoint that you will need to configure.
+3.- Las donaciones hechas en nuestras entidades receptoras no nos brindan información sobre el tipo de donantes que las realizan, al perder ésta información Fundación Teletón pierde la oportunidad de generar un lazo de comunicación directo con éstos, de conocer mejor a sus donantes y por lo tanto dirigir mejor la información para obtener más donaciones.
 
-### Api
+4.- Para que la transparencia sea efectiva es necesario que tanto nuestros donantes como el público en general puedan acceder a ésta información de una forma que puedan entender con facilidad los datos, la data debe traducirse a un lenguaje amable para su amplia difusión y entendimiento.
 
-The `Api` provider is a simple CRUD frontend to an API. Simply put the root of
-your API url in the Api class and call get/post/put/patch/delete 
+## Puntos de Dolor:
 
-## i18n
+Donantes:
 
-Ionic Super Starter comes with internationalization (i18n) out of the box with
-[ngx-translate](https://github.com/ngx-translate/core). This makes it easy to
-change the text used in the app by modifying only one file. 
+- Les es difícil procesar o acceder a lo informes en los que se muestran las rendiciones de Cuentas.
 
-### Adding Languages
+- No tienen forma de dar seguimiento a el o los donativos que han realizado en alguna de nuestras entidades.
 
-To add new languages, add new files to the `src/assets/i18n` directory,
-following the pattern of LANGCODE.json where LANGCODE is the language/locale
-code (ex: en/gb/de/es/etc.).
+- No pueden elegir algún CRIT particular a donde les gustaría enviar su donativo.
 
-### Changing the Language
 
-To change the language of the app, edit `src/app/app.component.ts` and modify
-`translate.use('en')` to use the LANGCODE from `src/assets/i18n/`
+Fundación Teletón:
+
+- La información para la actualización de los donativos actuale requiere ser recopilada de distintas fuentes, lo que complejiza la tarea.
+
+- No cuenta con la información de los donantes que envían sus donativos a través de nuestras entidades
+
+- No logra un seguimiento o establecer un canal de comunicación directo con los donantes que donan a través de nuestras entidades.
+
+- Pierde información valiosa para fidelizar la donación de éstos donantes.
+
+
+## Detalles de Implementación:
+
+Firebase
+
+
+Gmail login Api
+
+
+Html5
+
+
+Javascript
+
+
+CSS
+
+
+Json
+
+
+Angular
+
+
+Córdova
+
+
+Ionic
+
+
+Git
+
+
+Github
+
+
+## Producto Mínimo Viable:
+
+
+App que permite generar el registro de usuario, creación de perfil, agregar donación realizada, elegir CRIT para donación.
+
+
+
+
+
+
+
+
+
+
+
