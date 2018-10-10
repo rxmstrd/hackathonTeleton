@@ -1,12 +1,15 @@
 
 
+![LOGO](https://github.com/AlexisDoli/hackathonTeleton/blob/master/img/2ConfiaT.jpg?raw=true)
+
+
 # ConfíaT: 
 
 Transparencia de la Información
 
 Desarrollaramos una app donde el público en general pueda consultar las donaciones recibidas en el evento Teletón. Además podrá registrar donaciones previas hechas a través de entidades que en éste momento no nos permiten conocer al donador. Ésta aplicación les facilitará el seguimiento de donaciones anteriores, realizar nuevas,  elegir a qué CRIT enviará su donación, hacer comentarios y/o preguntas y pertenecer a una comunidad de donadores Teletón. 
 
-Al generar un perfil que dé seguimiento a cada donación personal, recopilaremos data que permitirá que Teletón conocer a sus donantes, darles seguimiento, generar comunidad y buscar su fidelización.
+Al generar un perfil que dé seguimiento a cada donación personal, recopilaremos data que permitirá a Teletón conocer a sus donantes, darles seguimiento, generar comunidad y buscar su fidelización.
 
 
 ## Preámbulo:
@@ -59,6 +62,45 @@ Fundación Teletón:
 
 - Pierde información valiosa para fidelizar la donación de éstos donantes.
 
+## Propuesta de Valor:
+
+La aplicación permitirá registrar a los donantes que hayan hecho donaciones offline en cualquiera a través de alguno de los siguientes mecanismos:
+
+Banamex
+
+Farmacias del Ahorro
+
+Infinitum
+
+Soriana
+
+Telcel
+
+Telecomm
+
+Telmex
+
+La plataforma le permitirá al donante registrar su donativo en su perfil, ésta aplicación es un canal de recuperación de información que nuestros mecanismos de recepción no recopilan en la actulidad.
+
+El backend de ésta aplicación deberá permitirle al Admin Teletón manipular la data de donantes para poder generar más donaciones y fidelización de los donantes actuales.
+
+
+## Producto Mínimo Viable:
+
+
+App que permite generar el registro de usuario, creación de perfil, agregar donación realizada, elegir CRIT para donación.
+
+
+
+![MVP](https://github.com/AlexisDoli/hackathonTeleton/blob/master/img/captura.jpg?raw=true)
+
+
+## Arquitectura de la Información:
+
+
+https://github.com/AlexisDoli/hackathonTeleton
+
+
 
 ## Detalles de Implementación:
 
@@ -93,13 +135,6 @@ Git
 
 
 Github
-
-
-## Producto Mínimo Viable:
-
-
-App que permite generar el registro de usuario, creación de perfil, agregar donación realizada, elegir CRIT para donación.
-
 
 
 
