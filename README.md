@@ -98,7 +98,7 @@ App que permite generar el registro de usuario, creación de perfil, agregar don
 ## Arquitectura de la Información:
 
 
-https://github.com/AlexisDoli/hackathonTeleton
+https://whimsical.co/VnEJpEEFkpFDyKEkb7vKRt
 
 
 
